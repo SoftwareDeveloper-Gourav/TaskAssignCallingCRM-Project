@@ -1,5 +1,3 @@
-Sure, I'd be happy to help you outline the features of your web application that involves user registration and task assignment. Here's a breakdown of the key features:
-
 **1. User Registration:**
 - User Sign-Up: Allow new users to create accounts by providing basic information such as name, email address, and password.
 - Account Verification: Implement an email verification process to ensure the authenticity of user registrations.
